@@ -5,8 +5,8 @@ from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassifica
 import sqlite3
 import torch
 from functools import lru_cache
-import firebase_admin
-from firebase_admin import credentials
+
+
 
 
 
